@@ -13,7 +13,7 @@
 - 💬 Passionate about **Full Stack Development**, **Data Analytics**, and **AI for Ethical Applications**.  
 - ⚡ Fun fact: I enjoy building data-driven systems that make tech more transparent and trustworthy!  
 - 📫 Reach me at: [ameliasantosh2304@gmail.com](mailto:ameliasantosh2304@gmail.com)  
-- 🌐 Connect: [LinkedIn](https://www.linkedin.com/in/amelia-santosh) | [Portfolio](#)  
+- 🌐 Connect: [LinkedIn](https://www.linkedin.com/in/amelia-santosh-5789b0274/) | [Portfolio](#)  
 
 ---
 
